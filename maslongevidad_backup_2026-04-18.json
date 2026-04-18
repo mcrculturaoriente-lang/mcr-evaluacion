@@ -1,0 +1,46 @@
+{
+  "13994018": {
+    "nombre": "Silvana Lughi",
+    "sexo": "F",
+    "evaluaciones": [
+      {
+        "ts": 1776535089925,
+        "fecha": "2026-03-11",
+        "nombre": "Silvana Lughi",
+        "dni": "13994018",
+        "edad": 65,
+        "sexo": "F",
+        "peso": null,
+        "talla": null,
+        "dina_dom": 24,
+        "dina_nodom": 20,
+        "push_comp": null,
+        "push_rod": null,
+        "push_45": 30,
+        "plancha_codos": 31,
+        "plancha_palmas": null,
+        "plancha_sent": 127,
+        "pa_sist": 110,
+        "pa_diast": 60,
+        "fc_rep": 86,
+        "fc_max": 163,
+        "srt_b": null,
+        "srt_l": 3,
+        "srt_seg": null,
+        "srt_cal": "3",
+        "silla": 12,
+        "tug": null,
+        "marcha4": null,
+        "eq_d_ab": 120,
+        "eq_d_ce": null,
+        "eq_i_ab": 63,
+        "eq_i_ce": null,
+        "flex": null,
+        "scratch": null,
+        "cintura": null,
+        "cadera": null,
+        "pantorrilla": null
+      }
+    ]
+  }
+}
